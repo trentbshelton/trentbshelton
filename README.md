@@ -2,6 +2,6 @@
 
 IT support / help desk in training, based in San Antonio, TX. Working toward CompTIA A+, then Network+ and CCNA.
 
-I run a homelab (Proxmox, Docker, Linux, Tailscale) and use this account to document it.
+I run a homelab (Proxmox, Docker, Linux, Tailscale) and use this account to document it and other things along the way.
 
 [LinkedIn](https://www.linkedin.com/in/trent-shelton-it) · trentbshelton@protonmail.com
